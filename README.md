@@ -1,0 +1,2 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=F73D9F&center=true&vCenter=true&random=false&width=1000&lines=Olá%2C+meu+nome+é+Diana;;Bem+vindo%3A)](https://git.io/typing-svg)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dianalinaemidio&bg_color=ffcfe9&color=9e4c98&line=ff69b4&point=ffb6c1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
